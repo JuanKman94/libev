@@ -10,10 +10,11 @@ since as of 2021-07-30 it has a bad SSL certificate.
 
 ## About
 
-Homepage: http://software.schmorp.de/pkg/libev
-Mailinglist: libev@lists.schmorp.de
-			http://lists.schmorp.de/cgi-bin/mailman/listinfo/libev
-Library Documentation: http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod
+* Homepage: http://software.schmorp.de/pkg/libev
+* Mailinglist:
+  + libev@lists.schmorp.de
+  + http://lists.schmorp.de/cgi-bin/mailman/listinfo/libev
+* Library Documentation: http://pod.tst.eu/http://cvs.schmorp.de/libev/ev.pod
 
 Libev is modelled (very losely) after libevent and the Event perl
 module, but is faster, scales better and is more correct, and also more
@@ -58,6 +59,6 @@ contributions to the design (for minor patches, see the Changes
 file. If I forgot to include you, please shout at me, it was an
 accident):
 
-W.C.A. Wijngaards
-Christopher Layne
-Chris Brody
+* W.C.A. Wijngaards
+* Christopher Layne
+* Chris Brody
